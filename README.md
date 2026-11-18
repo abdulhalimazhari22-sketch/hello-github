@@ -3,9 +3,9 @@
 Halo! Ini adalah repository GitHub pertama saya.
 
 ## Tentang Saya
-- Nama: Nama Kamu
-- Program Studi: Nama Program Studi
-- Universitas: Nama Universitas
+- Nama: Abdul Halim Azhari
+- Program Studi: Informatika
+- Universitas: Universitas Hamzanwadi 
 
 ## Tujuan
 Belajar menggunakan Git dan GitHub.
